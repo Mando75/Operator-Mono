@@ -1,7 +1,7 @@
 
-# Operator-Mono Font
+# Operator-Mono Font w/ Ligatures
 
-A nice code font
+A nice code font with added Ligatures from https://github.com/kiliman/operator-mono-lig
 
 ## Usage
 
