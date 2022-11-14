@@ -6,7 +6,7 @@ A nice code font with added Ligatures from https://github.com/kiliman/operator-m
 ## Usage
 
 ```sh
-$ git clone https://github.com/tita0x00/Operator-Mono.git
+$ git clone https://github.com/Mando75/Operator-Mono.git
 ```
 
 
